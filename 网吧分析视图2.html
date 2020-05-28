@@ -1,0 +1,70 @@
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<title>个体网吧视图2</title>
+
+		<style type="text/css">
+			#bigDivbb {
+				display: flex;
+				height: 100%;
+				width: 100%;
+				background: #000000;
+				/*justify-content: space-between;*/
+			}
+			
+			#small_view1 {
+				height: 100%;
+				width: 60%;
+				/*justify-content: space-between;*/
+			}
+			
+			#conta2 {
+				height: 100%;
+				width: 40%;
+			}
+			
+			#small_view2 {
+				height: 60%;
+				width: 100%;
+				/*justify-content: space-between;*/
+			}
+			
+			#small_view3 {
+				height: 40%;
+				width: 100%;
+				/*justify-content: space-between;*/
+			}
+		</style>
+		<script src="js/d3.v3.js"></script>
+		<script src="https://cdn.bootcss.com/echarts/4.2.0-rc.2/echarts.js"></script>
+		<script src="js/传递id号并展示视图.js">
+			
+			
+		</script>
+
+	</head>
+
+	<body onload="getparam();">
+
+		<div id="bigDivbb">
+
+			<div id="small_view1">
+				<script src="js/小视图_黑网吧.js"></script>
+			</div>
+			<div id="conta2">
+
+				<div id="small_view2">
+					<script src="js/小视图_黑网吧2.js"></script>
+				</div>
+
+				<div id="small_view3">
+					<script src="js/小视图_黑网吧3.js"></script>
+				</div>
+
+			</div>
+
+		</div>
+	</body>
+
+</html>

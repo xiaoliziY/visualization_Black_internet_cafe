@@ -1,0 +1,111 @@
+.content_1 {
+	margin: 0px;
+	background: #08304a;
+}
+
+.content_2 {
+	margin: 0px;
+}
+
+#bigDiva {
+	display: flex;
+	height: 60%;
+	width: 100%;
+	/*border: 1px solid white;*/
+	/*justify-content: space-between;*/
+}
+
+#bigDivb {
+	display: flex;
+	height: 35%;
+	width: 100%;
+	/*justify-content: space-between;*/
+}
+
+#migrant_barchart {
+	height: 100%;
+	width: 30%;
+	/*	margin-top: 10px;*/
+	border: 1px solid white;
+}
+
+#div_fanmap2 {
+	height: 100%;
+	width: 30%;
+	border: 1px solid white;
+}
+
+#scatter {
+	width: 40%;
+	height: 100%;
+	/*padding-left: 10px;*/
+	/*margin-top: 10px;*/
+	border: 1px solid white;
+}
+
+#flow_diagram {
+	width: 40%;
+	height: 100%;
+	background: rgba(50, 50, 50, 0.7);
+	/*	margin-right: 10px;*/
+	border: 1px solid white;
+}
+
+
+/*视觉2*/
+/*装百度地图以及2个表格*/
+#bigDiv {
+	display: flex;
+	height: 60%;
+	width: 100%;
+	justify-content: space-between;
+}
+/*/////////////////////*/
+/*装2个单纯表格*/
+#table1 {
+	width: 40%;
+	height: 100%;
+	border: 1px solid white;
+	background: #ffffff;
+}
+
+#bigDiv1 {
+	display: flex;
+	/*justify-content: space-between;*/
+	height: 35%;
+	width: 100%;
+}
+
+
+/*<!-- //百度地图所需-->*/
+
+#charts {
+	height: 300px;
+	width: 40%;
+}
+
+#container {
+	height: 550px;
+	width: 60%;
+	border: 1px solid white;
+}
+
+
+
+#test22 {
+	width: 30%;
+	height: 250px;
+	border: 1px solid white;
+}
+
+#circletime {
+	width: 30%;
+	height: 250px;
+	border: 1px solid white;
+}
+
+#illegal_hightime {
+	width: 40%;
+	height: 250px;
+	border: 1px solid white;
+}

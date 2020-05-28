@@ -1,0 +1,39 @@
+.nav{
+	width:100%;
+	height:30px;
+	background:#08304a;
+	border: 1px solid white;
+}
+.nav p{
+	margin: 0px;
+}
+.nav a{
+	width:50%;
+	height:30px;
+	line-height:30px;
+	font-size:20px;
+	color:#ffffff;
+	float:left;
+	text-align:center;
+	text-decoration:none;
+}
+
+.content_1{
+	width:100%;
+	height:100%;
+	font-size:20px;
+	text-align:center;
+	line-height: 200px;
+	color:chartreuse;
+	background: #000000;
+}
+
+.content_2{
+	width:100%;
+	height:100%;
+	font-size:20px;
+	text-align:center;
+	line-height: 200px;
+	color:orangered;
+	background: #000000;
+}

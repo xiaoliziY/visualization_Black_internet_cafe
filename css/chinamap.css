@@ -1,0 +1,18 @@
+#div_mainMap {
+	/*border-style: solid;
+	border-color: #191970;
+	width: -webkit-max();*/
+	/*display: inline-block;*/
+	height: 600px;
+	width: 1100px;
+	/*padding: 10px;*/
+	background: #333333;
+	 /*backgroundColor: '#333333'*/
+}
+
+#div_fanMap {
+	height: 300px;
+	width: 100px;
+	padding: 10px;
+	/*background: #1B1B1B;*/
+}
